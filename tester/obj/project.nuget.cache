@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnkbYsdj0WHOP+r32VqRGasbLUlV/seOPndTTC+wd013zlCspWQlCT9ezxpPrnF2PNqjZDz3Bhdw+glCyU/h5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carl.halen\\Documents\\Programmering\\vinterprojekt\\tester\\tester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carl.halen\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\carl.halen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
